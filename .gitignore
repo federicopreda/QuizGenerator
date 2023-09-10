@@ -1,0 +1,3 @@
+# Ignora cartella tmp per la creazione/modifica dei tsv/csv delle domade
+tmp
+.ipynb_checkpoints 
