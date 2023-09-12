@@ -21,16 +21,46 @@ Questo progetto rappresenta una continuazione e un'evoluzione di un precedente g
 
 ## Sommario
 - [Stack](#Stack)
+- [Versione](#Versione)
 - [Installazione](#Installazione)
 - [Utilizzo](#Utilizzo)
+- [Contributors](#Contributors)
 - [Licenza](#Licenza)
 - [FAQ](#FAQ)
 
+## Versione
+
+**1.2**
+
+- Aggiunta la misurazione e visualizzazione del tempo totale impiegato per il quiz, il tempo impiegato per ciascuna domanda, il tempo medio di risposta, il tempo medio di risposta per risposte errate e risposte corrette
+- Corretta la visualizzazione dei percorsi formativi
+
+- Corrette diverse domande e risposte 
+- Aggiunti i riconoscimenti nel README.md
+- Corretto le versioni dello stack nel README.md
+
+###### Versioni precedenti
+
+**1.1.2**
+Aggiornato il file requirements.txt a causa di un refuso riguardo alla versione di Pandas
+
+**1.1.1**
+Corretta risposta riguardo all'influenza di mercato e aggiunto una domanda relativa allo stesso argomento
+
+**1.1**
+Fixato l'input del numero di domande, ora viene chiesto prima di inserire su quali argomenti si vuole testare la propria preparazione così da effettuare il controllo corretto sul numero di domande possibili in base a quante domande ci sono relative ai percorsi formativi scelti
+
+**1.0.1**
+Correzione domanda riguardo ai mercati e stato del notebook al primo avvio
+
+**1.0**
+Rilascio della prima versione di QuizGenerator
 
 ## Stack
+
 * Python: 3.10.12
 * Notebook: 7.0.3
-* Pandas: 2.1.10
+* Pandas: 2.1.0
 * Numpy: 1.25.2
 * Matplotlib: 3.7.2
 * IPython: 8.15.0
@@ -73,11 +103,19 @@ Per utilizzare il generatore di domande una volta che il notebook è aperto nel 
 
 4. Una volta avviata l'esecuzione, sarai guidato attraverso il processo di creazione di un quiz personalizzato. Puoi personalizzare il numero di domande (il valore predefinito è 16, come nell'esame) e gli argomenti su cui desideri testare la tua preparazione (il valore predefinito include tutti gli argomenti).
 
-5. Dopo aver risposto a tutte le domande, verrà visualizzato il risultato del tuo esame. Per ottenere la promozione, è necessario ottenere un punteggio superiore a 9/16, come richiesto in sede d'esame. Inoltre, verrà mostrata la percentuale di successo, un grafico che illustra la distribuzione delle domande per argomento e un altro grafico che indica la percentuale di risposte corrette per ciascun argomento. Infine, avrai accesso alla lista completa delle domande, con le risposte corrette.
+5. Dopo aver risposto a tutte le domande, verrà visualizzato il risultato del tuo esame. Per ottenere la promozione, è necessario ottenere un punteggio superiore a 9/16, come richiesto in sede d'esame. Inoltre, verrà mostrata la percentuale di successo, un grafico che illustra la distribuzione delle domande per argomento e un altro grafico che indica la percentuale di risposte corrette per ciascun argomento. Dalla versione 1.2 è presente anche il tempo totale impiegato per il quiz, il tempo impiegato per ciascuna domanda, il tempo medio di risposta, il tempo medio di risposta per risposta errate e risposte corrette. Infine, avrai accesso alla lista completa delle domande, con le risposte corrette.
 
 6. Se desideri eseguire un nuovo set di domande, puoi ripartire dal passaggio 3.
 
 Ti auguriamo un'efficace preparazione utilizzando il generatore di domande e ti ricordiamo l'importanza di raggiungere una solida comprensione degli argomenti trattati nel corso.
+
+## Contributors
+Si ringrazia tutti e tutte coloro che stanno contribuendo al progetto:
+- [AndreaaCosentino](https://github.com/AndreaaCosentino)
+- [d-ber](https://github.com/d-ber)
+- [Ivan Selvaggio](https://github.com/Rivan017)
+- [Matteo Mangioni](https://github.com/MatMangio)
+- [SarettaBalu](https://github.com/SarettaBalu)
 
 ## Licenza
 
