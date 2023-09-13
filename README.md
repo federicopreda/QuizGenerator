@@ -30,6 +30,12 @@ Questo progetto rappresenta una continuazione e un'evoluzione di un precedente g
 
 ## Versione
 
+**1.2.1**
+
+- Corretto inizio quiz, rimosso duplicato
+
+###### Versioni precedenti
+
 **1.2**
 
 - Aggiunta la misurazione e visualizzazione del tempo totale impiegato per il quiz, il tempo impiegato per ciascuna domanda, il tempo medio di risposta, il tempo medio di risposta per risposte errate e risposte corrette
@@ -38,8 +44,6 @@ Questo progetto rappresenta una continuazione e un'evoluzione di un precedente g
 - Corrette diverse domande e risposte 
 - Aggiunti i riconoscimenti nel README.md
 - Corretto le versioni dello stack nel README.md
-
-###### Versioni precedenti
 
 **1.1.2**
 Aggiornato il file requirements.txt a causa di un refuso riguardo alla versione di Pandas
