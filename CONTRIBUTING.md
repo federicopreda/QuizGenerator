@@ -10,7 +10,7 @@ In primo luogo, è essenziale migliorare e ampliare il set di domande disponibil
 
 In secondo luogo, dobbiamo sviluppare una piattaforma educativa che sia estremamente utile per aiutare gli studenti nella loro preparazione per l'esame. L'obiettivo è creare uno strumento completo e efficiente che possa contribuire in modo significativo all'apprendimento e alla crescita degli studenti.
 
-Non è in linea con i valori del progetto, qualsiasi condotta che non concorra al miglioramento dell'ambiente di apprendimento per la comunità accademica. A titolo esemplificativo, ma non limitato a tale esempio, rientra in detta categoria qualsiasi atto consistente nell'appropriazione dei file progettuali, con conseguente prosecuzione dell'attività in maniera autonoma senza successivamente condividere tali modifiche allo scopo di consentirne l'integrazione nel repository ufficiale del progetto originale.
+Non è in linea con i valori del progetto, qualsiasi condotta che non concorra al miglioramento dell'ambiente di apprendimento per la comunità accademica. A titolo esemplificativo, ma non limitato a tale esempio, rientra in detta categoria qualsiasi atto consistente nell'appropriazione dei file progettuali, con conseguente prosecuzione dell'attività in maniera autonoma senza successivamente condividere tali modifiche allo scopo di consentirne l'integrazione nel repository ufficiale del [progetto originale](https://github.com/federicopreda/QuizGenerator).
 
 In tutto questo processo, promuoviamo la collaborazione aperta e costruttiva tra i contributori, incoraggiando tutti a partecipare attivamente per migliorare il progetto e raggiungere i nostri obiettivi comuni.
 
