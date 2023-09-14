@@ -30,11 +30,15 @@ Questo progetto rappresenta una continuazione e un'evoluzione di un precedente g
 
 ## Versione
 
-**1.2.1**
+**1.2.2**
 
-- Corretto inizio quiz, rimosso duplicato
+- Corretta risposta alla domanda sul free software
 
 ###### Versioni precedenti
+
+**1.2.1**
+
+- Corretto inizio quiz, rimossa cella duplicata
 
 **1.2**
 
